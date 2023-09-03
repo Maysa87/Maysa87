@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Maysa Leocadio (@Maysa87)
+- Software engineering student at the University of Brasilia 
 - 👀 I’m interested in mobile IOS development
 - 🌱 I’m currently learning Swift and C
 - 📫 How to reach me lmaysagomes@gmail.com
