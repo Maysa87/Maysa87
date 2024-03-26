@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Swift and C
 - 📫 How to reach me lmaysagomes@gmail.com
 
-<h1 align="center">Olá <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, Me chamo Luis Philipe</h1>
+<h1 align="center">Olá <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, Me chamo Maysa Leocadio</h1>
 
 <h4 align="center">Faça da sua vida mais "Responsivo" - Dica para Programadores de Sistemas.
 <h4/>
