@@ -6,7 +6,7 @@
 
 <h1 align="center">Olá <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, Me chamo Maysa Leocadio</h1>
 
-<h4 align="center">Faça da sua vida mais "Responsivo" - Dica para Programadores de Sistemas.
+<h4 align="center">“Nossos fracassos, às vezes, são mais frutíferos do que os êxitos.” – Henry Ford
 <h4/>
  
  <div align="center">
