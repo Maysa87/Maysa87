@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Maysa Leocadio (@Maysa87)
 - Software engineering student at the University of Brasilia 
-- 👀 I’m interested in mobile IOS development
-- 🌱 I’m currently learning Swift and C
+- 👀 I’m interested in backend development
+- 🌱 I’m currently learning Golang 
 - 📫 How to reach me lmaysagomes@gmail.com
 
 <h1 align="center">Olá <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, Me chamo Maysa Leocadio</h1>
