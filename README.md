@@ -12,9 +12,6 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Maysa87&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maysa87&layout=compact&theme=github_dark"/>
 </div>
-[<img src=".thumb/vector/adventure/hiking.png">](vector/adventure/hiking.svg)
-<a href="https://www.typescriptlang.org/" title="Typescript"><img src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" alt="Typescript" width="21px" height="21px"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/geticon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="21px" height="21px"></a>
   ##
   
 <div align="center"> 
