@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Maysa Leocadio (@Maysa87)
 - Software engineering student at the University of Brasilia 
 - 👀 I’m interested in backend development
-- 🌱 I’m currently learning Golang 
+- 🌱 I’m currently learning Golang/Java(Spring Boot)
 - 📫 How to reach me lmaysagomes@gmail.com
 
 <h4 align="center">“Nossos fracassos, às vezes, são mais frutíferos do que os êxitos.” – Henry Ford
